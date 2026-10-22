@@ -35,7 +35,7 @@ pega aquí
 
 > 
 
-### 1.3. Comparativa de los dos IDE (en casa, paso 20)
+### 1.3. Comparativa de los dos IDE (paso 6)
 
 |                                         | Editor de GitHub Codespaces | JupyterLab |
 |-----------------------------------------|-----------------------------|------------|
@@ -95,7 +95,7 @@ pega aquí
 | Java       | `src/java/Factura.java` |   |   |   |
 | TypeScript | `src/ts/factura.ts`     |   |   |   |
 
-**Opcional:** ¿has podido ejecutar los mismos archivos desde JupyterLab (paso 20)? ¿Por qué funciona en los dos IDE sin instalar nada más?
+**Opcional:** ¿has podido ejecutar los mismos archivos desde JupyterLab (paso 19)? ¿Por qué funciona en los dos IDE sin instalar nada más?
 
 > 
 

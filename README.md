@@ -14,7 +14,6 @@ Sigue el enunciado paso a paso: **no tienes que programar nada**.
 | `tsconfig.json` | Configuración del compilador de TypeScript | No |
 | `fragmentos/` | Los textos que tendrás que copiar y pegar en cada paso | Solo para copiar |
 | `docs/entorno.md` | Tu documentación de la práctica | Sí, la rellenas tú |
-| `docs/verificacion-companero.md` | La verificación del entorno de un compañero | Sí, en el paso 21 |
 | `docs/capturas/` | Aquí subes las pocas capturas que se piden | Sí |
 
 ## Cómo arrancar este proyecto
