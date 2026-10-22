@@ -1,6 +1,6 @@
 {
   "name": "Entorno DAW",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "image": "mcr.microsoft.com/devcontainers/base:jammy",
   "features": {
     "ghcr.io/devcontainers/features/java:1": {
       "version": "21"

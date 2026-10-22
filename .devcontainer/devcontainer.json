@@ -1,4 +1,4 @@
 {
   "name": "Entorno DAW",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+  "image": "mcr.microsoft.com/devcontainers/base:jammy"
 }
